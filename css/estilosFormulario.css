@@ -9,6 +9,11 @@
     color: white;
 }
 
+body{
+
+    background-color: #161717;
+}
+
 
 .container {
     /* Hacemos que el div container tenga una disposision flexible y lo alineamos en una columna */
